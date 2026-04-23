@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi, I'm Heer Mathukia
+ Hi, I'm Heer Mathukia
 
 Data Science graduate from Mumbai, currently working on data analysis 
 and visualization projects using Python and Power BI.

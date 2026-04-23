@@ -7,8 +7,9 @@ and visualization projects using Python and Power BI.
 Python, Pandas, NumPy, SQL, Power BI, Microsoft Excel
 
 ## Projects
-1.Netflix Data Analysis — exploratory analysis of 8,800+ Netflix records
-2.IPL Data Analysis — covering 1,095 matches and 260,920 deliveries across 16 seasons
+1.Netflix Data Analysis — exploratory analysis of 8,800+ Netflix records.
+
+2.IPL Data Analysis — covering 1,095 matches and 260,920 deliveries across 16 seasons.
 
 ## Currently
 Open to Data Analyst internships, entry level and full time opportunities.
